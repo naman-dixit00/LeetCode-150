@@ -57,3 +57,9 @@ Competitive Programming & Pattern-based problem-solving guides
 
 📌 _"This digital credential represents the culmination of a rigorous 150-day LeetCode challenge. It serves as a testament to my strong problem-solving skills, unwavering consistency in algorithm development"_
 
+
+📌 _"This digital credential represents the culmination of a rigorous 75-day LeetCode challenge. It serves as a testament to my strong problem-solving skills, unwavering consistency in algorithm development"_
+
+<p align="center">
+  <img src="leetcode 150.png" alt="LeetCode Badge" width="900" height="700"/>
+</p>
