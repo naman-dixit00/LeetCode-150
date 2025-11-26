@@ -4,14 +4,14 @@
 ---
 📌 **Repository Overview**
 
-_____________________________________________________________________
-| **Attribute** |                **Details**                         |     
-|---------------|----------------------------------------------------|
-| Total Problems| 150                                                 |
-| Languages     | C++                                                | 
-| Approach      | Pattern-oriented                                   |
-| Goal          | problem-solving portfolio with daily contributions |
-</p>
+                                                              _____________________________________________________________________
+                                                             | **Attribute** |                **Details**                         |     
+                                                             |---------------|----------------------------------------------------|
+                                                             | Total Problems| 150                                                |
+                                                             | Languages     | C++                                                | 
+                                                             | Approach      | Pattern-oriented                                   |
+                                                             | Goal          | problem-solving portfolio with daily contributions |
+
 
 ---
 
