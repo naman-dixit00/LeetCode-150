@@ -3,7 +3,7 @@
 **Purpose**: Master key data structures & algorithms, understand patterns, and maintain a daily-commit-driven repository to accelerate learning and showcase problem-solving skills.
 ---
 📌 **Repository Overview**
-<p align="center">
+
 _____________________________________________________________________
 | **Attribute** |                **Details**                         |     
 |---------------|----------------------------------------------------|
@@ -14,7 +14,7 @@ _____________________________________________________________________
 </p>
 
 ---
-<p align="center">
+
   <img src="https://github.com/naman-dixit00/LeetCode-150/blob/main/Leetcode%20150.jpeg" alt="Meri Image" width="900" height="1000"/>
 </p>
 ---
