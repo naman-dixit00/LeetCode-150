@@ -18,7 +18,7 @@ _____________________________________________________________________
 
 ---
 
-  <img src="https://github.com/naman-dixit00/LeetCode-150/blob/main/Leetcode%20150.jpeg" alt="Meri Image" width="900" height="1000"/>
+  <img src="https://github.com/naman-dixit00/LeetCode-150/blob/main/Leetcode%20150.jpeg" alt="Meri Image" width="900" height="1500"/>
 </p>
 ---
 <p align="center">
