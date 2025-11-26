@@ -1,4 +1,4 @@
-                                                                             # LeetCode-150: DSA Solutions
+# LeetCode-150: DSA Solutions
                                                                             
 
 
@@ -6,15 +6,14 @@
 
 
 
-                                                              📌 **Repository Overview**
-
-                                                              _____________________________________________________________________
-                                                             | **Attribute** |                **Details**                         |     
-                                                             |---------------|----------------------------------------------------|
-                                                             | Total Problems| 150                                                |
-                                                             | Languages     | C++                                                | 
-                                                             | Approach      | Pattern-oriented                                   |
-                                                             | Goal          | problem-solving portfolio with daily contributions |
+📌 **Repository Overview**
+_____________________________________________________________________
+| **Attribute** |                **Details**                         |     
+|---------------|----------------------------------------------------|
+| Total Problems| 150                                                |
+| Languages     | C++                                                | 
+| Approach      | Pattern-oriented                                   |
+| Goal          | problem-solving portfolio with daily contributions |
 
 
 ---
