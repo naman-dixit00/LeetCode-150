@@ -64,7 +64,7 @@ Competitive Programming & Pattern-based problem-solving guides
 
 📌 Take a look at my work here
 <p align="center">
-  <img src="https://github.com/naman-dixit00/LeetCode-150/blob/main/150%20qrcode_leetcode.com.png" alt="QR Code" width="500" height="500"/>
+  <img src="https://github.com/naman-dixit00/LeetCode-150/blob/main/150%20qrcode_leetcode.com.png" alt="QR Code" width="300" height="300"/>
 </p>
 
 ---        
@@ -72,5 +72,5 @@ Competitive Programming & Pattern-based problem-solving guides
 📌 _"This digital credential represents the culmination of a rigorous 75-day LeetCode challenge. It serves as a testament to my strong problem-solving skills, unwavering consistency in algorithm development"_
 
 <p align="center">
-  <img src="leetcode 150.png" alt="LeetCode Badge" width="900" height="500"/>
+  <img src="leetcode 150.png" alt="LeetCode Badge" width="900" height="300"/>
 </p>
