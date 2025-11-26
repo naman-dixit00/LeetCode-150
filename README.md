@@ -3,6 +3,7 @@
 **Purpose**: Master key data structures & algorithms, understand patterns, and maintain a daily-commit-driven repository to accelerate learning and showcase problem-solving skills.
 ---
 📌 **Repository Overview**
+<p align="center">
 _____________________________________________________________________
 | **Attribute** |                **Details**                         |     
 |---------------|----------------------------------------------------|
@@ -10,6 +11,8 @@ _____________________________________________________________________
 | Languages     | C++                                                | 
 | Approach      | Pattern-oriented                                   |
 | Goal          | problem-solving portfolio with daily contributions |
+</p>
+
 ---
 <p align="center">
   <img src="https://github.com/naman-dixit00/LeetCode-150/blob/main/Leetcode%20150.jpeg" alt="Meri Image" width="900" height="1000"/>
@@ -18,8 +21,10 @@ _____________________________________________________________________
 <p align="center">
 Image source: [LeetCode](https://leetcode.com)
 </p>
+
 ---
-• **Problem Classification & Workflow**
+
+•  **Problem Classification & Workflow**
 
 1. **Each Day folder contains**:
       o	Solutions → problem restatement, constraints, intuition, brute/optimized approaches, patterns, key insights
@@ -56,7 +61,7 @@ Competitive Programming & Pattern-based problem-solving guides
 
 📌 Take a look at my work here
 <p align="center">
-  <img src=" https://github.com/naman-dixit00/LeetCode-150/blob/main/150%20qrcode_leetcode.com.png" alt="QR Code" width="900" height="1000"/>
+  <img src="https://github.com/naman-dixit00/LeetCode-150/blob/main/150%20qrcode_leetcode.com.png" alt="QR Code" width="500" height="500"/>
 </p>
 
 ---        
