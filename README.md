@@ -15,7 +15,9 @@ _____________________________________________________________________
   <img src="https://github.com/naman-dixit00/LeetCode-150/blob/main/Leetcode%20150.jpeg" alt="Meri Image" width="900" height="1000"/>
 </p>
 ---
-*Image source: [LeetCode](https://leetcode.com) *
+<p align="center">
+Image source: [LeetCode](https://leetcode.com)
+</p>
 ---
 • **Problem Classification & Workflow**
 
@@ -52,9 +54,12 @@ Competitive Programming & Pattern-based problem-solving guides
 
 ---
 
-📌_"This digital credential represents the culmination of a rigorous 150-day LeetCode challenge. It serves as a testament to my strong problem-solving skills, unwavering consistency in algorithm development"_ 
+📌 Take a look at my work here
+<p align="center">
+  <img src=" https://github.com/naman-dixit00/LeetCode-150/blob/main/150%20qrcode_leetcode.com.png" alt="QR Code" width="900" height="1000"/>
+</p>
 
----
+---        
 
 📌 _"This digital credential represents the culmination of a rigorous 75-day LeetCode challenge. It serves as a testament to my strong problem-solving skills, unwavering consistency in algorithm development"_
 
