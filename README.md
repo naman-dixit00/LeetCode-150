@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbv-Xj-jTL-0zMspTZo-8tcZ4JOvd0dmOU9A&s" alt="Meri Image" width="900" height="255"/>
+  <img src="https://github.com/naman-dixit00/LeetCode-150/blob/main/Leetcode%20150.jpeg" alt="Meri Image" width="900" height="750"/>
 </p>
 
-*Image source: [LeetCode](https://leetcode.com) via Medium*
+*Image source: [LeetCode](https://leetcode.com) *
 
 # LeetCode-150: DSA Solutions
 
